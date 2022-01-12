@@ -1,0 +1,21 @@
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\Mystic Audio.exe.config
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\Mystic Audio.exe.manifest
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\Mystic Audio.application
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\Mystic Audio.exe
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\Mystic Audio.pdb
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\Bass.Net.dll
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\Bunifu.Licensing.dll
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\TagLibSharp.dll
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\TagLibSharp.pdb
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Release\TagLibSharp.xml
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Release\Mystic_Audio.Form1.resources
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Release\Mystic_Audio.Properties.Resources.resources
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Release\Mystic Audio.csproj.GenerateResource.cache
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Release\Mystic Audio.csproj.CoreCompileInputs.cache
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Release\Mystic Audio.exe.manifest
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Release\Mystic Audio.application
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Release\Mystic Audio.csproj.CopyComplete
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Release\Mystic Audio.exe
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Release\Mystic Audio.pdb

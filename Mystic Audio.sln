@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mystic Audio", "Mystic Audio\Mystic Audio.csproj", "{D4DB1646-125B-46D1-BFDD-E9A8636E0E42}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{64D02135-0A70-43F5-BF8F-DC221F6FB00B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4DB1646-125B-46D1-BFDD-E9A8636E0E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DB1646-125B-46D1-BFDD-E9A8636E0E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DB1646-125B-46D1-BFDD-E9A8636E0E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DB1646-125B-46D1-BFDD-E9A8636E0E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D02135-0A70-43F5-BF8F-DC221F6FB00B}.Debug|Any CPU.ActiveCfg = Debug
+		{64D02135-0A70-43F5-BF8F-DC221F6FB00B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306DBB88-7023-4B31-8423-65A4B9CF6899}
+	EndGlobalSection
+EndGlobal

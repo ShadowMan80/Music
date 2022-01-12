@@ -1,0 +1,21 @@
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Debug\Mystic Audio.csproj.AssemblyReference.cache
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Debug\Mystic_Audio.Form1.resources
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Debug\Mystic_Audio.Properties.Resources.resources
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Debug\Mystic Audio.csproj.GenerateResource.cache
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\Mystic Audio.exe.config
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\Mystic Audio.exe
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\Mystic Audio.pdb
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\Bass.Net.dll
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\TagLibSharp.dll
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\TagLibSharp.pdb
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\TagLibSharp.xml
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Debug\Mystic Audio.csproj.CoreCompileInputs.cache
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Debug\Mystic Audio.csproj.CopyComplete
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Debug\Mystic Audio.exe
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Debug\Mystic Audio.pdb
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\Mystic Audio.exe.manifest
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\bin\Debug\Mystic Audio.application
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Debug\Mystic Audio.exe.manifest
+C:\Users\Donjf\source\repos\Mystic Audio\Mystic Audio\obj\Debug\Mystic Audio.application
